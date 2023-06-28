@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AHMassBank"]
 	path = AHMassBank
 	url = https://github.com/jorainer/ahmassbank
-	shallow = true
-	registered = true
 [submodule "ensembldb"]
 	path = ensembldb
 	url = https://github.com/jorainer/ensembldb
-	shallow = true
-	registered = true
